@@ -1,4 +1,4 @@
-# chatapp
+# FlashChat
 
 A new Flutter project.
 
